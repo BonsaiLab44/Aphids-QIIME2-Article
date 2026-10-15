@@ -2,7 +2,7 @@
 
 This README provides a general QIIME 2 workflow for single-end amplicon sequencing data, including import, demultiplexing summary, DADA2 denoising, taxonomy assignment, filtering, diversity analysis, PERMANOVA/PERMDISP, PICRUSt2, FUNGuild, and Spearman correlation analysis.
 
-The provided script is compatible with qiime2-amplicon-2024.2 used in the main Pentalonia nigronervosa microbiome project using 16S rDNA and ITS amplicon sequencing ; options for qiime2-amplicon-2026.1 are also provided. 
+The provided script is compatible with qiime2-amplicon-2024.2 used in the main *Pentalonia nigronervosa* microbiome project using 16S rDNA and ITS amplicon sequencing; options for qiime2-amplicon-2026.1 are also provided. 
 
 Please note that the codes and scripts provided are general templates. Directory paths, input file names, output file names, thread numbers, and additional code features should be modified according to the specific needs of each analysis.
 
